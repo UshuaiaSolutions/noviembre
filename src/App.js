@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Background } from "./ui/Fondo";
 import { Card } from "./ui/Card";
